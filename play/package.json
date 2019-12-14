@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mtmazurik/nodejs/issues"
   },
-  "homepage": "https://github.com/mtmazurik/nodejs#readme"
+  "homepage": "https://github.com/mtmazurik/nodejs#readme",
+  "dependencies": {
+    "jshint": "^2.11.0-rc1"
+  }
 }
